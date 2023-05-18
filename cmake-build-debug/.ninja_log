@@ -1,0 +1,8 @@
+# ninja log v5
+256	418	7043959148194146	lab2_dsa.exe	71738471f5ada788
+3	255	7043959146017012	CMakeFiles/lab2_dsa.dir/PriorityQueue.cpp.obj	1308acb3747cabd8
+2	381	7043953532067848	CMakeFiles/lab2_dsa.dir/ExtendedTest.cpp.obj	2264bbf3ccfc5078
+2	271	7043953645668647	CMakeFiles/lab2_dsa.dir/App.cpp.obj	6c2a348bf8f325e4
+2	282	7043955941160226	CMakeFiles/lab2_dsa.dir/ShortTest.cpp.obj	caa9213fe036e8f9
+3	384	7043961791263762	CMakeFiles/lab2_dsa.dir/ShortTest.cpp.obj	caa9213fe036e8f9
+384	503	7043961792400244	lab2_dsa.exe	71738471f5ada788
